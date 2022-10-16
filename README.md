@@ -1,4 +1,4 @@
-<h1 align="center"> Programa de Mentoria Interna LEAD 2022.2 - Python IA</h1>
+<h1 align="center"> Programa de Mentoria Interna LEAD | Python IA</h1>
 Repositório destinado às atividades desenvolvidas no Programa de Mentoria Interna LEAD 2022.2 - Turma Python IA.
 
 
