@@ -5,4 +5,4 @@ Repositório destinado às atividades desenvolvidas no Programa de Mentoria Inte
 ## Conteúdo
 
 * **[Introdução Python](https://github.com/andressagomes26/pythonIA_Mentoring/tree/main/1.%20Conceitos%20Python);**
-  
+* **[Machine Learning](https://github.com/andressagomes26/pythonIA_Mentoring/tree/main/2.%20Machine%20Learning);**
